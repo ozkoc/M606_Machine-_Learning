@@ -21,7 +21,14 @@ This project focuses on utilizing machine learning techniques to predict the lik
 --Thalassemia (thall)
 --Target Variable Indicating Presence of Heart Disease (output)
 
-By analyzing these features, the machine learning model aims to accurately predict the likelihood of a heart attack in the near future. The results of this predictive model can provide valuable insights to healthcare providers, enabling them to develop targeted prevention strategies and personalized treatment plans. Ultimately, this project contributes to the broader goal of reducing heart disease-related mortality and improving public health outcomes.
+By analyzing these features, the machine learning model aims to accurately predict the likelihood of a heart attack in the near future. The results of this predictive model can provide valuable
 
+insights to healthcare providers, enabling them to develop targeted prevention strategies and personalized treatment plans. Ultimately, this project contributes to the broader goal of reducing heart disease-related mortality and improving public health outcomes.
+
+## Technical Specifications: 
+  Jupyter Notebook
+  XGboost package (pip install xgboost)
+  pandas, numpy, python 3  
+  
 Dataset : https://archive.ics.uci.edu/dataset/45/heart+disease
 
